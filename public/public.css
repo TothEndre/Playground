@@ -1,0 +1,27 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size: 22px;
+  background-color: rgb(69, 69, 69);
+  box-sizing: border-box;
+  color: white;
+}
+
+h1 {
+  color: rgb(129, 170, 253);
+  font-size: 250%;
+  margin: 50px 20px 50px 20px;
+  font-weight: 200;
+  border: 2px solid white;
+  border-radius: 4px;
+  padding: 20px;
+  display: inline-block;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: rgb(244, 187, 112);
+}
