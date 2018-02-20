@@ -56,5 +56,3 @@ app.get('/bad', (req, res) => {
 })
 
 app.listen(3000);
-
-// this is sparta
